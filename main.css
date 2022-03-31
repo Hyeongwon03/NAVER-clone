@@ -1,0 +1,42 @@
+body {
+    background-color : #F5F6F7;
+}
+.img {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 40px;
+}
+.id{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 23px;
+}
+
+#id {
+    width: 470px;
+    height: 45px;
+    border: 1.5px solid silver;
+}
+.password {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 23px;
+}
+#password {
+    width: 470px;
+    height: 45px;
+    border: 1.5px solid silver;
+}
+.login {
+    display: flex;
+    justify-content: center;
+}
+#login {
+    width: 480px;
+    height: 50px;
+    background-color:#2DB400;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
